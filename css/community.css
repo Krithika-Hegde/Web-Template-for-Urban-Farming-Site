@@ -1,0 +1,150 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v1_2 {
+  width: 100%;
+  height: 2928px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_3 {
+  width: 100%;
+  height: 811px;
+  background: url("../images/v1_3.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_4 {
+  width: 341px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 66px;
+  left: 52px;
+  font-family: Inter;
+  font-weight: Extra Bold;
+  font-size: 67px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_5 {
+  width: 679px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 352px;
+  left: 52px;
+  font-family: Inter;
+  font-weight: Medium;
+  font-size: 50px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_6 {
+  width: 100%;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 468px;
+  left: 78px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 30px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_7 {
+  width: 100%;
+  height: 2115px;
+  background: rgba(15,60,11,1);
+  opacity: 1;
+  position: absolute;
+  top: 813px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_8 {
+  width: 485px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 67px;
+  left: 100px;
+  font-family: Inter;
+  font-weight: Bold;
+  font-size: 30px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_9 {
+  width: 100%;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 138px;
+  left: 56px;
+  font-family: Inter;
+  font-weight: Medium;
+  font-size: 25px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_10 {
+  width: 100%;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 1715px;
+  left: 56px;
+  font-family: Inter;
+  font-weight: Medium;
+  font-size: 25px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_11 {
+  width: 540px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 1618px;
+  left: 89px;
+  font-family: Inter;
+  font-weight: Bold;
+  font-size: 32px;
+  opacity: 1;
+  text-align: left;
+}
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
